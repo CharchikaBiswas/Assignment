@@ -1,0 +1,28 @@
+table {
+  width: 40%;
+  height: 20%;
+}
+body {
+  background-color: black;
+  color: #84c754;
+  font-family: courier;
+  font-size: 14px;
+}
+.sheets {
+  color: #84c754;
+}
+.s1:hover {
+  color: white;
+}
+.s2:hover {
+  color: white;
+}
+.s3:hover {
+  color: white;
+}
+.s4:hover {
+  color: white;
+}
+.s5:hover {
+  color: white;
+}
